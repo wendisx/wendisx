@@ -22,7 +22,7 @@
 
 🏛️College：Wust
 
-📋Career: Currently a sophomore
+📋Career：Currently a sophomore
 
 💡Interest: 
 
@@ -40,4 +40,7 @@ QQ: 2195058149
 
 Mail: 2195058149@qq.com
 
+---
+
+## Welcome to communicate together 🎉
 
