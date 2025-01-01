@@ -1,11 +1,14 @@
+## Hello! It's a pleasure to meet you. Welcome to my homepage!
 
-### 🛠 Tech Stack
+---
 
-#### 💻 Programming Language
+### Tech Stack
+
+#### Programming Language
 
 ![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
+![C](https://img.shields.io/badge/C-Language-blue)
 
 #### WorkFlow
 
@@ -17,23 +20,25 @@
 
 ---
 
-#### 👨‍💻 About me
+#### About Me
 
-🏛️College：Wust
+College：Wust
 
-📋Career：Currently a sophomore
+Career：Currently a sophomore
 
-💡Interest: 
+Interest: 
 
-1、🖥️ operating system
+1、operating system
 
-2、🗄️ backend development
+2、backend development
 
-3、🚀 independent developer
+3、independent developer
+
+Now: I am currently learning Go language and backend-related knowledge. At the same time, I am exploring new technologies and striving to expand my tech stack.I am continually exploring new and efficient learning methods.
 
 ---
 
-#### 📫 Contact me
+#### Contact me
 
 QQ: 2195058149
 
@@ -41,5 +46,5 @@ Mail: 2195058149@qq.com
 
 ---
 
-### Welcome to communicate together 🎉
+### Welcome to communicate together!
 
