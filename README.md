@@ -8,7 +8,7 @@
 
 ![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-Language-blue?style=flat&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-C_Language-4EAA25?style=flat&logo=c&logoColor=white)
 
 #### WorkFlow
 
