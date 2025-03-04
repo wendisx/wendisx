@@ -6,6 +6,8 @@
 
 #### Programming Language
 
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=coffeescript&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/-C_Language-00599c?style=flat&logo=c&logoColor=white)
